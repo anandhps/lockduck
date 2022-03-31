@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidStudioProjects/Anand" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidStudioProjects/COMET-Android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidStudioProjects/MPAY_Mobile_App" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidStudioProjects/Notify-Android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidStudioProjects/PIAS-ANDROID" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidStudioProjects/QRScanner" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidStudioProjects/RCDLCheck" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidStudioProjects/TVS-PAY-Mobile" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidStudioProjects/eYatra-Android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidStudioProjects/flutter_sdk/flutter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidStudioProjects/partsmart-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidStudioProjects/pias_php" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidStudioProjects/tn_result_portal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidStudioProjects/tvs-gigo-android-v1" vcs="Git" />
+  </component>
+</project>
